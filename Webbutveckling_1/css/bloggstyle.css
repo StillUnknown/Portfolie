@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/Waves.jpg);
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding: 2em;
+}
+
+div {
+    border: 2px solid black;
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 90%;
+    margin: auto;
+}
+
+.irrelevant-on-tablet-and-mobile {
+    display: none;
+}
+
+.image-width {
+    width: 100%;
+}
+
+.container {
+    background-color: white;
+    margin-bottom: 10em;
+}
+
+@media only screen and (min-width: 768px) {
+    main {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .image-width {
+        width: 50%;
+    }
+
+    .irrelevant-on-tablet-and-mobile {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    main {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    div {
+        border: 2px solid black;
+        width: 50%;
+        margin: auto;
+        padding: 3em;
+    }
+
+    .image-width {
+        width: 40%;
+    }
+
+    .zoom {
+        transition: transform .2s;
+        margin: 0 auto;
+    }
+
+    .zoom:hover {
+        -ms-transform: scale(1.6); /* IE 9 */
+        -webkit-transform: scale(1.6); /* Safari 3-8 */
+        transform: scale(1.6);
+    }
+
+    .irrelevant-on-tablet-and-mobile {
+        display: block;
+    }
+}

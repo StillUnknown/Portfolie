@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44045dea-594f-4820-a285-c8990f745d38" name="Changes" comment="Går igenom alla filer för att se om det ligger importer som inte behövs eller annat småfix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fullstack/Lektioner/2022-04-26/server/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fullstack/Lektioner/2022-04-26/server/logs/error.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/backend/tests/Alive.test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/tests/Task.test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/__tests__/createTask.test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/Alive.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/__tests__/GetTaskUsingName.test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/utils/api/TaskAPI.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/utils/api/service/TaskService.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/updateTask/UpdateTask.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/utils/api/service/AliveService.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/routes/TaskRoutes.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/getTaskUsingId/GetTaskUsingId.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/configurations/ApplyMiddlewares.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/getTaskUsingName/GetTaskUsingName.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/models/TaskModel.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/controller/TaskController.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/controller/AliveController.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/middlewares/Middlewares.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/configurations/StatusCode.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/App.test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/createTask/CreateTask.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/index.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/App.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/deleteTask/DeleteTask.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/card/Card.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/taskList/TaskList.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/server.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/CardList.jsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/backend/src/configurations/Configurations.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/components/__tests__/DeleteTask.test.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="275tFmPzK7gAyUk4eJvxBqT4k3E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MissManga" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\WEB-2108\Datalagring\assignmentMongoMongoose\frontend\src\utils" />
+      <recent name="C:\git\WEB-2108\Datalagring\assignmentMongoMongoose\frontend\src\utils\api\global\style" />
+      <recent name="C:\git\WEB-2108\Datalagring\assignmentMongoMongoose\backend\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44045dea-594f-4820-a285-c8990f745d38" name="Changes" comment="" />
+      <created>1648621673880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648621673880</updated>
+      <workItem from="1648621675043" duration="19851000" />
+      <workItem from="1648658858504" duration="4245000" />
+      <workItem from="1648713754883" duration="1235000" />
+      <workItem from="1648833708435" duration="5303000" />
+      <workItem from="1648887406970" duration="1278000" />
+      <workItem from="1648899912813" duration="2152000" />
+      <workItem from="1648914709663" duration="1612000" />
+      <workItem from="1648917983403" duration="2250000" />
+      <workItem from="1648920276297" duration="57000" />
+      <workItem from="1648920515771" duration="3443000" />
+      <workItem from="1649069905230" duration="2520000" />
+      <workItem from="1649076833211" duration="2344000" />
+      <workItem from="1649156797223" duration="6836000" />
+      <workItem from="1649173114986" duration="28000" />
+      <workItem from="1649173171051" duration="391000" />
+      <workItem from="1649173618083" duration="118000" />
+      <workItem from="1649232610977" duration="8073000" />
+      <workItem from="1649244688085" duration="4105000" />
+      <workItem from="1649248844865" duration="26000" />
+      <workItem from="1649268948583" duration="2525000" />
+      <workItem from="1649333929249" duration="2782000" />
+      <workItem from="1649397803816" duration="3071000" />
+      <workItem from="1649408961714" duration="1528000" />
+      <workItem from="1649416923292" duration="7539000" />
+      <workItem from="1649504076097" duration="1923000" />
+      <workItem from="1649610092641" duration="5319000" />
+      <workItem from="1649617301809" duration="1145000" />
+      <workItem from="1649659846822" duration="12798000" />
+      <workItem from="1649676409067" duration="5930000" />
+      <workItem from="1649749165173" duration="5756000" />
+      <workItem from="1649756454614" duration="73000" />
+      <workItem from="1649768252095" duration="2586000" />
+      <workItem from="1649771110491" duration="106000" />
+      <workItem from="1649782542600" duration="1165000" />
+      <workItem from="1649786787062" duration="2363000" />
+      <workItem from="1649838112511" duration="7955000" />
+      <workItem from="1649851247005" duration="5383000" />
+      <workItem from="1649856916043" duration="112000" />
+      <workItem from="1649859905934" duration="174000" />
+      <workItem from="1649923072981" duration="312000" />
+      <workItem from="1649923403142" duration="3522000" />
+      <workItem from="1649929776471" duration="481000" />
+      <workItem from="1649930382763" duration="392000" />
+      <workItem from="1650524656050" duration="3000" />
+      <workItem from="1650524831377" duration="21000" />
+      <workItem from="1652778906059" duration="859000" />
+    </task>
+    <task id="LOCAL−00034" summary="Fortsätter med inlämningen">
+      <created>1649248862462</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1649248862462</updated>
+    </task>
+    <task id="LOCAL−00035" summary="Fortsätter med inlämningen">
+      <created>1649271479483</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1649271479483</updated>
+    </task>
+    <task id="LOCAL−00036" summary="Försöker fixa inlämningen men det går just nu inget vidare">
+      <created>1649337505006</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1649337505006</updated>
+    </task>
+    <task id="LOCAL−00037" summary="Lägger till frontendtester och börjar med backendtesterna">
+      <created>1649400903184</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1649400903184</updated>
+    </task>
+    <task id="LOCAL−00038" summary="Ändrar TaskController enligt bonus :D:D:D:D:D">
+      <created>1649418949887</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1649418949887</updated>
+    </task>
+    <task id="LOCAL−00039" summary="Fortsätter ändra TaskController">
+      <created>1649420831027</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1649420831027</updated>
+    </task>
+    <task id="LOCAL−00040" summary="Skriver färdigt den nya TaskController">
+      <created>1649426511122</created>
+      <option name="number" value="LOCAL−00040" />
+      <option name="presentableId" value="LOCAL−00040" />
+      <updated>1649426511122</updated>
+    </task>
+    <task id="LOCAL−00041" summary="Missade några statuskoder men nu verkar delete funka">
+      <created>1649427945965</created>
+      <option name="number" value="LOCAL−00041" />
+      <option name="presentableId" value="LOCAL−00041" />
+      <updated>1649427945965</updated>
+    </task>
+    <task id="LOCAL−00042" summary="Lägger till userId igen då det är så jag skickar det via routes i backend">
+      <created>1649428425027</created>
+      <option name="number" value="LOCAL−00042" />
+      <option name="presentableId" value="LOCAL−00042" />
+      <updated>1649428425027</updated>
+    </task>
+    <task id="LOCAL−00043" summary="Går igenom getTaskUsingId">
+      <created>1649428713468</created>
+      <option name="number" value="LOCAL−00043" />
+      <option name="presentableId" value="LOCAL−00043" />
+      <updated>1649428713468</updated>
+    </task>
+    <task id="LOCAL−00044" summary="Går igenom getTaskUsingId">
+      <created>1649429280582</created>
+      <option name="number" value="LOCAL−00044" />
+      <option name="presentableId" value="LOCAL−00044" />
+      <updated>1649429280582</updated>
+    </task>
+    <task id="LOCAL−00045" summary="Sitter med inlämningen men får inte skiten att funka">
+      <created>1649506006594</created>
+      <option name="number" value="LOCAL−00045" />
+      <option name="presentableId" value="LOCAL−00045" />
+      <updated>1649506006594</updated>
+    </task>
+    <task id="LOCAL−00046" summary="Felsöker inlämningen">
+      <created>1649612358387</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1649612358387</updated>
+    </task>
+    <task id="LOCAL−00047" summary="Felsöker inlämningen">
+      <created>1649615437899</created>
+      <option name="number" value="LOCAL−00047" />
+      <option name="presentableId" value="LOCAL−00047" />
+      <updated>1649615437899</updated>
+    </task>
+    <task id="LOCAL−00048" summary="Lägger till lite knappar">
+      <created>1649618449363</created>
+      <option name="number" value="LOCAL−00048" />
+      <option name="presentableId" value="LOCAL−00048" />
+      <updated>1649618449363</updated>
+    </task>
+    <task id="LOCAL−00049" summary="Nu har alla funktioner knappar att snabbt radera innehållet i inputs">
+      <created>1649660060738</created>
+      <option name="number" value="LOCAL−00049" />
+      <option name="presentableId" value="LOCAL−00049" />
+      <updated>1649660060738</updated>
+    </task>
+    <task id="LOCAL−00050" summary="Försöker få getBtName att funka men icke!">
+      <created>1649663345814</created>
+      <option name="number" value="LOCAL−00050" />
+      <option name="presentableId" value="LOCAL−00050" />
+      <updated>1649663345815</updated>
+    </task>
+    <task id="LOCAL−00051" summary="Börjar med toggleTaskIsDone">
+      <created>1649666046137</created>
+      <option name="number" value="LOCAL−00051" />
+      <option name="presentableId" value="LOCAL−00051" />
+      <updated>1649666046137</updated>
+    </task>
+    <task id="LOCAL−00052" summary="toggleTaskDone är klar men funkar bara från backend.">
+      <created>1649667448324</created>
+      <option name="number" value="LOCAL−00052" />
+      <option name="presentableId" value="LOCAL−00052" />
+      <updated>1649667448324</updated>
+    </task>
+    <task id="LOCAL−00053" summary="byter toggleTaskDone till en annan">
+      <created>1649667548988</created>
+      <option name="number" value="LOCAL−00053" />
+      <option name="presentableId" value="LOCAL−00053" />
+      <updated>1649667548988</updated>
+    </task>
+    <task id="LOCAL−00054" summary="Fortsätter med backend tester">
+      <created>1649668925740</created>
+      <option name="number" value="LOCAL−00054" />
+      <option name="presentableId" value="LOCAL−00054" />
+      <updated>1649668925740</updated>
+    </task>
+    <task id="LOCAL−00055" summary="Fortsätter med backend tester">
+      <created>1649672194261</created>
+      <option name="number" value="LOCAL−00055" />
+      <option name="presentableId" value="LOCAL−00055" />
+      <updated>1649672194261</updated>
+    </task>
+    <task id="LOCAL−00056" summary="Lägger till createTask i test">
+      <created>1649672946836</created>
+      <option name="number" value="LOCAL−00056" />
+      <option name="presentableId" value="LOCAL−00056" />
+      <updated>1649672946836</updated>
+    </task>
+    <task id="LOCAL−00057" summary="Gör färdigt backendtesterna">
+      <created>1649680279332</created>
+      <option name="number" value="LOCAL−00057" />
+      <option name="presentableId" value="LOCAL−00057" />
+      <updated>1649680279332</updated>
+    </task>
+    <task id="LOCAL−00058" summary="Felsöker">
+      <created>1649682398522</created>
+      <option name="number" value="LOCAL−00058" />
+      <option name="presentableId" value="LOCAL−00058" />
+      <updated>1649682398522</updated>
+    </task>
+    <task id="LOCAL−00059" summary=".">
+      <created>1649682506001</created>
+      <option name="number" value="LOCAL−00059" />
+      <option name="presentableId" value="LOCAL−00059" />
+      <updated>1649682506001</updated>
+    </task>
+    <task id="LOCAL−00060" summary=".">
+      <created>1649682575673</created>
+      <option name="number" value="LOCAL−00060" />
+      <option name="presentableId" value="LOCAL−00060" />
+      <updated>1649682575673</updated>
+    </task>
+    <task id="LOCAL−00061" summary=".">
+      <created>1649682620845</created>
+      <option name="number" value="LOCAL−00061" />
+      <option name="presentableId" value="LOCAL−00061" />
+      <updated>1649682620845</updated>
+    </task>
+    <task id="LOCAL−00062" summary="Fixade getByName">
+      <created>1649751909665</created>
+      <option name="number" value="LOCAL−00062" />
+      <option name="presentableId" value="LOCAL−00062" />
+      <updated>1649751909665</updated>
+    </task>
+    <task id="LOCAL−00063" summary="Fixade toggleTaskDone med hjälp av Lars">
+      <created>1649754623314</created>
+      <option name="number" value="LOCAL−00063" />
+      <option name="presentableId" value="LOCAL−00063" />
+      <updated>1649754623314</updated>
+    </task>
+    <task id="LOCAL−00064" summary="Lägger till en .env_templete">
+      <created>1649754793676</created>
+      <option name="number" value="LOCAL−00064" />
+      <option name="presentableId" value="LOCAL−00064" />
+      <updated>1649754793676</updated>
+    </task>
+    <task id="LOCAL−00065" summary="Ändrar i testerna">
+      <created>1649756229839</created>
+      <option name="number" value="LOCAL−00065" />
+      <option name="presentableId" value="LOCAL−00065" />
+      <updated>1649756229839</updated>
+    </task>
+    <task id="LOCAL−00066" summary="Byter namn på min databas">
+      <created>1649756519236</created>
+      <option name="number" value="LOCAL−00066" />
+      <option name="presentableId" value="LOCAL−00066" />
+      <updated>1649756519237</updated>
+    </task>
+    <task id="LOCAL−00067" summary="Ändrar lite namn så det passar bättre med min inlämning">
+      <created>1649770142488</created>
+      <option name="number" value="LOCAL−00067" />
+      <option name="presentableId" value="LOCAL−00067" />
+      <updated>1649770142488</updated>
+    </task>
+    <task id="LOCAL−00068" summary="Pillar med tester">
+      <created>1649771201820</created>
+      <option name="number" value="LOCAL−00068" />
+      <option name="presentableId" value="LOCAL−00068" />
+      <updated>1649771201821</updated>
+    </task>
+    <task id="LOCAL−00069" summary="Fixar med tester igen. Nu funkar global_id till alla tester">
+      <created>1649783678280</created>
+      <option name="number" value="LOCAL−00069" />
+      <option name="presentableId" value="LOCAL−00069" />
+      <updated>1649783678282</updated>
+    </task>
+    <task id="LOCAL−00070" summary="Småfix">
+      <created>1649788877045</created>
+      <option name="number" value="LOCAL−00070" />
+      <option name="presentableId" value="LOCAL−00070" />
+      <updated>1649788877045</updated>
+    </task>
+    <task id="LOCAL−00071" summary="Bygger om TaskController och getByName för att få ut det omskrivna message">
+      <created>1649838415437</created>
+      <option name="number" value="LOCAL−00071" />
+      <option name="presentableId" value="LOCAL−00071" />
+      <updated>1649838415437</updated>
+    </task>
+    <task id="LOCAL−00072" summary="Bygger om Task.test för att matcha det nya message från getByName i TaskController">
+      <created>1649838517126</created>
+      <option name="number" value="LOCAL−00072" />
+      <option name="presentableId" value="LOCAL−00072" />
+      <updated>1649838517126</updated>
+    </task>
+    <task id="LOCAL−00073" summary="Trodde jag var smart men nej, det funkade inte...">
+      <created>1649839494746</created>
+      <option name="number" value="LOCAL−00073" />
+      <option name="presentableId" value="LOCAL−00073" />
+      <updated>1649839494747</updated>
+    </task>
+    <task id="LOCAL−00074" summary="Lägger till Insomniatesterna i projektet">
+      <created>1649844002478</created>
+      <option name="number" value="LOCAL−00074" />
+      <option name="presentableId" value="LOCAL−00074" />
+      <updated>1649844002478</updated>
+    </task>
+    <task id="LOCAL−00075" summary="Skapar en README fil för dokumentationen">
+      <created>1649844121372</created>
+      <option name="number" value="LOCAL−00075" />
+      <option name="presentableId" value="LOCAL−00075" />
+      <updated>1649844121372</updated>
+    </task>
+    <task id="LOCAL−00076" summary="Fyller i dokumentationen">
+      <created>1649846704306</created>
+      <option name="number" value="LOCAL−00076" />
+      <option name="presentableId" value="LOCAL−00076" />
+      <updated>1649846704306</updated>
+    </task>
+    <task id="LOCAL−00077" summary="Fyller i dokumentationen">
+      <created>1649852187701</created>
+      <option name="number" value="LOCAL−00077" />
+      <option name="presentableId" value="LOCAL−00077" />
+      <updated>1649852187701</updated>
+    </task>
+    <task id="LOCAL−00078" summary="Småfix">
+      <created>1649856649713</created>
+      <option name="number" value="LOCAL−00078" />
+      <option name="presentableId" value="LOCAL−00078" />
+      <updated>1649856649713</updated>
+    </task>
+    <task id="LOCAL−00079" summary="README">
+      <created>1649857018689</created>
+      <option name="number" value="LOCAL−00079" />
+      <option name="presentableId" value="LOCAL−00079" />
+      <updated>1649857018689</updated>
+    </task>
+    <task id="LOCAL−00080" summary="Gör fireEvent i DeleteTask.test.js">
+      <created>1649924739560</created>
+      <option name="number" value="LOCAL−00080" />
+      <option name="presentableId" value="LOCAL−00080" />
+      <updated>1649924739560</updated>
+    </task>
+    <task id="LOCAL−00081" summary="Ändrade i TaskRoutes.js">
+      <created>1649927486973</created>
+      <option name="number" value="LOCAL−00081" />
+      <option name="presentableId" value="LOCAL−00081" />
+      <updated>1649927486973</updated>
+    </task>
+    <task id="LOCAL−00082" summary="Går igenom alla filer för att se om det ligger importer som inte behövs eller annat småfix">
+      <created>1649930237837</created>
+      <option name="number" value="LOCAL−00082" />
+      <option name="presentableId" value="LOCAL−00082" />
+      <updated>1649930237837</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="byter toggleTaskDone till en annan" />
+    <MESSAGE value="Fortsätter med backend tester" />
+    <MESSAGE value="Lägger till createTask i test" />
+    <MESSAGE value="Gör färdigt backendtesterna" />
+    <MESSAGE value="Felsöker" />
+    <MESSAGE value="." />
+    <MESSAGE value="Fixade getByName" />
+    <MESSAGE value="Fixade toggleTaskDone med hjälp av Lars" />
+    <MESSAGE value="Lägger till en .env_templete" />
+    <MESSAGE value="Ändrar i testerna" />
+    <MESSAGE value="Byter namn på min databas" />
+    <MESSAGE value="Ändrar lite namn så det passar bättre med min inlämning" />
+    <MESSAGE value="Pillar med tester" />
+    <MESSAGE value="Fixar med tester igen. Nu funkar global_id till alla tester" />
+    <MESSAGE value="Bygger om TaskController och getByName för att få ut det omskrivna message" />
+    <MESSAGE value="Bygger om Task.test för att matcha det nya message från getByName i TaskController" />
+    <MESSAGE value="Trodde jag var smart men nej, det funkade inte..." />
+    <MESSAGE value="Lägger till Insomniatesterna i projektet" />
+    <MESSAGE value="Skapar en README fil för dokumentationen" />
+    <MESSAGE value="Fyller i dokumentationen" />
+    <MESSAGE value="Småfix" />
+    <MESSAGE value="README" />
+    <MESSAGE value="Gör fireEvent i DeleteTask.test.js" />
+    <MESSAGE value="Ändrade i TaskRoutes.js" />
+    <MESSAGE value="Går igenom alla filer för att se om det ligger importer som inte behövs eller annat småfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Går igenom alla filer för att se om det ligger importer som inte behövs eller annat småfix" />
+  </component>
+</project>

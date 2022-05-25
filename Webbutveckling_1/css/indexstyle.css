@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/Waves.jpg);
+    background-size: cover;
+    margin: 0;
+    padding-bottom: 170px;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 3em;
+}
+
+.container {
+    background-color: white;
+    border: 2px solid black;
+    width: 60%;
+    margin: auto;
+    padding: 2em;
+}
+
+.image-width {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 450px;
+    margin-top: 7em;
+}
+
+.center {
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .container {
+        background-color: white;
+        border: 2px solid black;
+        width: 50%;
+        margin: auto;
+        padding: 2em;
+    }
+}
+
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        background-color: white;
+        border: 2px solid black;
+        width: 30%;
+        margin: auto;
+        padding: 2em;
+    }
+
+}

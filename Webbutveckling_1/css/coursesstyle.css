@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/Waves.jpg);
+    background-size: cover;
+    margin: 0;
+    padding-bottom: 170px;
+}
+
+
+header {
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.center-text-over-chart {
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.center-chart-on-screen {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bgc-aliceblue {
+    background-color: aliceblue;
+}
+
+.bgc-hashtag5f93e8 {
+    background-color: #5f93e8;
+}
+
+.bgc-coral {
+    background-color: coral;
+}
+
+.bgc-lightgray {
+    background-color: lightgray;
+}
+
+.bgc-yellow {
+    background-color: yellow;
+}
+
+.bgc-lightskyblue {
+    background-color: lightskyblue;
+}
+
+.bgc-hashtag04AA6D {
+    background-color: #04AA6D;
+}
+
+.remove-when-mobile {
+    display: none;
+}
+
+@media only screen and (min-width: 768px) {
+    .remove-when-mobile {
+        display: block;
+    }
+
+    body {
+        padding-bottom: 100px;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+}

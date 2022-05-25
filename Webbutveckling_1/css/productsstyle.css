@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/Waves.jpg);
+    background-size: cover;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.center-picture-grid {
+    text-align: center;
+
+}
+
+.center-text-vertically-in-grid {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.text-left-image-right {
+    display: grid;
+    border: 2px solid black;
+    width: 70%;
+    margin: auto auto 10em auto;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: auto;
+    background-color: white;
+    padding: 2em;
+}
+
+.img-responsive {
+    width: 100%;
+    max-width: 500px;
+}
+
+.img-responsive2 {
+    width: 100%;
+    max-width: 500px;
+}
+
+.image-left-text-right {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: auto;
+    border: 2px solid black;
+    width: 70%;
+    margin: auto auto 10em auto;
+    background-color: white;
+    padding: 2em;
+}
+
+@media only screen and (min-width: 768px) {
+    .text-left-image-right {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .img-responsive2 {
+        width: 60%;
+        max-width: 500px;
+    }
+
+}
+
+
+@media only screen and (min-width: 1200px) {
+    .text-left-image-right {
+        grid-template-columns: 2fr 1fr;
+        width: 70%;
+    }
+
+    .image-left-text-right {
+        grid-template-columns: 1fr 2fr;
+        width: 70%;
+    }
+}

@@ -1,0 +1,54 @@
+.dropdownContent {
+    position: absolute;
+    background-color: lightgray;
+    overflow: auto;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    width: 500px;
+    text-align: center;
+}
+
+.payButton {
+    background-color: lightgreen;
+    border-radius: 5px;
+    border-style: none;
+    width: 90px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.endButton{
+    margin-left: 280px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.totalSum {
+    margin-left: 300px;
+}
+
+.closeButton {
+    background-color: #ea3f3f;
+    border-radius: 5px;
+    border-style: none;
+    width: 50px;
+    padding: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.hr {
+    width: 95%;
+}
+
+.scrollWindowProperties {
+    overflow-y: scroll;
+    min-height: 100px;
+    max-height: 600px;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.scrollWindowProperties::-webkit-scrollbar {
+    display: none;
+}

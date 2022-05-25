@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80b2fa5f-31db-4c5c-afc9-5131e4eb07c1" name="Changes" comment="Databaser - assignment" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/backend/src/controller/TodoController.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/frontend/src/utils/api/service/TodoService.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/backend/src/data/taskData.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/frontend/frontend/src/components/card/Card.jsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="25uoO6ZixrvT69vRtkbgEHKPQwa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b2fa5f-31db-4c5c-afc9-5131e4eb07c1" name="Changes" comment="" />
+      <created>1646386301133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646386301133</updated>
+      <workItem from="1646386303087" duration="703000" />
+      <workItem from="1646387171117" duration="7383000" />
+      <workItem from="1646728441763" duration="215000" />
+      <workItem from="1646741584573" duration="184000" />
+      <workItem from="1646744577390" duration="3000" />
+      <workItem from="1646744641775" duration="363000" />
+      <workItem from="1646764517708" duration="42000" />
+      <workItem from="1646993493210" duration="560000" />
+      <workItem from="1647334172784" duration="35000" />
+      <workItem from="1647418818541" duration="92000" />
+      <workItem from="1647418936382" duration="10000" />
+      <workItem from="1647418948105" duration="15090000" />
+      <workItem from="1647442753964" duration="89000" />
+      <workItem from="1647503975022" duration="39000" />
+      <workItem from="1647504051205" duration="575000" />
+      <workItem from="1647507221347" duration="880000" />
+      <workItem from="1647523364368" duration="15000" />
+      <workItem from="1647938821360" duration="288000" />
+      <workItem from="1647939183594" duration="625000" />
+      <workItem from="1647945095439" duration="7000" />
+    </task>
+    <task id="LOCAL−00001" summary=".">
+      <created>1646764550622</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1646764550622</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Börjar fix för inlämningen">
+      <created>1647419857731</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1647419857731</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Börjar fix för inlämningen">
+      <created>1647430087501</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1647430087501</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Färdigställer inlämningen">
+      <created>1647432421221</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1647432421221</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Färdigställer inlämningen">
+      <created>1647441492250</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1647441492250</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Databaser - assignment">
+      <created>1647939202653</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1647939202653</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="." />
+    <MESSAGE value="Börjar fix för inlämningen" />
+    <MESSAGE value="Färdigställer inlämningen" />
+    <MESSAGE value="Databaser - assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Databaser - assignment" />
+  </component>
+</project>
